@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.5
+transformers>=4.45
+numpy
+pandas
+polars
+pyarrow
+scipy
+scikit-learn
+matplotlib
+tqdm
+pyyaml
+jupyter

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+artifacts/
+*.pt
+*.ckpt
+# исходники статей — только для чтения, в репозиторий не кладём
+arXiv-*/
